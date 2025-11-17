@@ -1,4 +1,4 @@
-# MediReach - AI-Powered Healthcare Platform
+# MediReach - AI-Powered Healthcare Platform  https://medi-eta.vercel.app/
 
 A comprehensive healthcare management system with intelligent AI-powered features designed to enhance patient experience, optimize doctor workflows, and enable data-driven medical insights.
 
